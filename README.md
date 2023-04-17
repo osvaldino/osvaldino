@@ -11,6 +11,7 @@ I am a fullstack software engineer from Brazil
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2320232a.svg?&style=for-the-badge&logo=python&logoColor=#ffd343" />
 <img alt="Ruby" src="https://img.shields.io/badge/ruby%20-%2320232a.svg?&style=for-the-badge&logo=ruby&logoColor=9b1c16" />
 <img alt="Node" src="https://img.shields.io/badge/node%20-%2320232a.svg?&style=for-the-badge&logo=node.js&logoColor=%2343853D" />
+<img alt="Flutter" src="https://img.shields.io/badge/flutter%20-%2320232a.svg?&style=for-the-badge&logo=flutter&logoColor=%2361DAFB" />
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img alt="React Native" src="https://img.shields.io/badge/reactnative%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=61dafb" />
 <img alt="Next.js" src="https://img.shields.io/badge/next%20-%2320232a.svg?&style=for-the-badge&logo=next.js&logoColor=ffffff" />
