@@ -37,6 +37,7 @@
     <img alt="postgresql" src="https://img.shields.io/badge/postgresql%20-%2320232a.svg?&style=for-the-badge&logo=postgresql&logoColor=7C86B4" />
     <img alt="Oracle" src="https://img.shields.io/badge/oracle%20-%2320232a.svg?&style=for-the-badge&logo=oracle&logoColor=4DB33D" />
     <img alt="sqlServer" src="https://img.shields.io/badge/sqlserver%20-%2320232a.svg?&style=for-the-badge&logo=sqlserver&logoColor=4DB33D" />
+    <img alt="sqlServer" src="https://img.shields.io/badge/sqlserver%20-%2320232a.svg?&style=for-the-badge&logo=sqlserver&logoColor=4DB33D](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=sql%20server&logoColor=white)" 
     </div>
 </div>
 </br>
