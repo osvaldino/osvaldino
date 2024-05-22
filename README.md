@@ -41,7 +41,7 @@
 </div>
 </br>
 
-<div align="center">
+<div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=osvaldino&theme=midnight-purple&count_private=false&show_icons=true&include_all_commits=true" /></br>
 <a href="https://github.com/osvaldino/osvaldino" target="_blank">
    <img alt="GitHub hits" src="https://img.shields.io/github/last-commit/osvaldino/osvaldino?label=profile%20updated&style=flat-square" />
@@ -51,12 +51,9 @@
 <!--
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Home
+- 🌱 I’m currently learning Java
+- 💬 Ask me about
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: League of Legends player God mod
 -->
