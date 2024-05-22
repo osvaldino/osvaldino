@@ -42,8 +42,8 @@
 </br>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=osvaldino&theme=midnight-purple&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats"></br>
-<a href="https://github.com/osvaldino/osvaldino" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/osvaldino/osvaldino?label=profile%20updated&style=flat-square"></a>  
+<img src="https://github-readme-stats.vercel.app/api?username=osvaldino&theme=midnight-purple&count_private=false&show_icons=true&include_all_commits=true˜ /></br>
+<a href="https://github.com/osvaldino/osvaldino" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/osvaldino?label=profile%20updated&style=flat-square"></a>  
 </div>
 
 <!--
