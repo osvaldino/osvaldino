@@ -41,13 +41,6 @@
 </div>
 </br>
 
-<div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=osvaldino&theme=midnight-purple&count_private=false&show_icons=true&include_all_commits=true" /></br>
-<a href="https://github.com/osvaldino/osvaldino" target="_blank">
-   <img alt="GitHub hits" src="https://img.shields.io/github/last-commit/osvaldino/osvaldino?label=profile%20updated&style=flat-square" />
-</a>
-</div>
-
 <!--
 Here are some ideas to get you started:
 
@@ -55,5 +48,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Java
 - 💬 Ask me about
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: League of Legends player God mod
+- ⚡ Fun fact: League of Legends player God mode
 -->
